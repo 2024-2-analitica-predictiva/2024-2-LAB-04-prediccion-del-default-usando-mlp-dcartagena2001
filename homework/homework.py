@@ -3,7 +3,7 @@
 # En este dataset se desea pronosticar el default (pago) del cliente el próximo
 # mes a partir de 23 variables explicativas.
 #
-#   LIMIT_BAL: Monto del credito otgado. Incluye el credito individual y el
+#   LIMIT_BAL: Monto del credito otorgado. Incluye el credito individual y el
 #              credito familiar (suplementario).
 #         SEX: Genero (1=male; 2=female).
 #   EDUCATION: Educacion (0=N/A; 1=graduate school; 2=university; 3=high school; 4=others).
